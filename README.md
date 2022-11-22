@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+[![
+Aeri's github stats](https://github-readme-stats.vercel.app/api?username="dofl8787"}&count_private=true}&custom_title="Aeri"&bg_color=50,#f09819,#edde5d,
+&title_color=#ffffff&text_color=#ffffff)]
 <!--
 **dofl8787/dofl8787** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
