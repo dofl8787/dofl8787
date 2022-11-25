@@ -1,9 +1,4 @@
 ### Hi there 👋
-[![
-Aeri's github stats](https://github-readme-stats.vercel.app/api?username="dofl8787"}&count_private=true}&custom_title="Aeri"&bg_color=50,#f09819,#edde5d,
-&title_color=#ffffff&text_color=#ffffff)]
-
-
 [![Aeri's github stats](https://github-readme-stats.vercel.app/api?username=dofl8787&count_private=true}&custom_title=Aeri&bg_color=50,f09819,edde5d,&title_color=ffffff&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
 
 
